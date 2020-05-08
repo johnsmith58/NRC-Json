@@ -1,0 +1,37 @@
+.nrc-container .nrc-number-label{
+    color: white;
+}
+.nrc{
+display: none;
+opacity: .9;
+background-color: gray;
+width: 250px;
+height: 150px;
+margin: auto;
+
+}
+.nrc-container select{
+    border: 0;
+    height: 25px;
+}
+.nrc-container .nrc-no{
+    width: 195px;
+    border-radius: 3px;
+}
+.nrc-container{
+    margin: 30px 0 20px 30px;
+    padding-top: 20px;
+}
+.nrc-container .submit{
+    float: right;
+    margin-right: 40px;
+    margin-top: 15px;
+    text-align: center;
+    padding: 0;
+    height: 29px;
+    width: 64px;
+}
+
+.nrc-error{
+    border: 3px solid red;
+}
